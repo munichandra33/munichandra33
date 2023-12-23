@@ -25,26 +25,20 @@ Hey there! Welcome to my GitHub playground 🚀. I'm Muni Chandra Chimidi, a pas
 - **Additional Skills:** Google Analytics, SEO, Content Writing, MS-Office, Canva
 
 ## 🛠️ Projects
-1. **[Portfolio Website](#)** - Sep '23
+1. **[Portfolio Website](https://munichandra33.github.io/My-Portfolio-Website/)** 
    - A dynamic website showcasing HTML, CSS, and JavaScript proficiency.
    - Codebase optimized for a 20% boost in performance.
    - Collaboration using Git for version tracking and smooth deployment.
 
-2. **[LifeOfAlpha.com](#)** - Jan '20 - Sep '23
+2. **[LifeOfAlpha.com](https://lifeofalpha.com/)** 
    - WordPress blog optimized for speed, SEO, and revenue.
    - Integrated CDN and Caching for a 3 times faster loading speed.
    - Generated $1250 in revenue through strategic SEO implementation.
 
-3. **Driver Drowsiness Detection System** - Feb '22 - Apr '22
+3. **Driver Drowsiness Detection System** 
    - Built with Python, OpenCV, Keras, TensorFlow, Pygame.
    - Real-time video processing for efficient monitoring of driver behavior.
    - Git utilized for smooth collaboration and version control.
-
-## 🏆 Achievements
-- Accenture Nordics Developer certification on Python Programming, testing, security, and AI.
-- Conducted a 3-day website scaling and SEO online workshop for 170+ participants globally.
-- Led a college-wide technical fest, promoting technical skills and innovation among 400+ students.
-- Grew Instagram page to 40k followers in 3 months through strategic networking and digital marketing.
 
 ## 🌐 Interests & Hobbies
 - Reading Non-Fiction
